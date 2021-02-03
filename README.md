@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/ehabwasel/microsoft-student-partners--geek-is-the-new-rockstar)
 <!-- BLOG-POST-LIST:END -->
 
-<img src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
+<img src='https://profile-counter.glitch.me/ehabwasel/count.svg' width='0px'>
 
