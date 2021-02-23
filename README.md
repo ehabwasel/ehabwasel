@@ -8,12 +8,12 @@
    <img src="https://github.com/ehabwasel/profileimg/blob/master/DEV.gif" align="right" width="25%"/>
   
 
-I'm a Web developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, Node js 
+I'm a Web developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS , Node js 
 
 - 🔭 I'm a Student in[@Hackyourfuture](https://www.hackyourfuture.net/)
-- 🔭 I’m currently working on something cool :Node.js:
+- 🔭 I’m currently working on something cool :MYSQL ,React Js:
 - 🌱 I’m currently learning Full stack developer
-- 💬 Ask me about **HTMLl,CSS,Javascript,Node.js, SQL,ReactJs and Frontend**
+- 💬 Ask me about **HTMLl,CSS,Javascript,Node.js, SQL , MYSQL ,React Js and Frontend**
 
 
 
