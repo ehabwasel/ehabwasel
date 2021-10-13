@@ -9,7 +9,7 @@
 
   
 
-I'm a Web developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS , Node js 
+I'm a Web developer who is passionate about Learning new technology. Some technologies I enjoy working with include Javascript, ReactJS , Node js ,vue ,redux, vuex
 
 - 🔭 I Graduated from [@Hackyourfuture](https://www.hackyourfuture.net/)
 - 🔭 I’m currently working on something cool : **MYSQL ,React Js**:
