@@ -14,7 +14,28 @@ I'm a Web developer who is passionate about creating technology to elevate peopl
 - 🔭 I'm a Graduated from [@Hackyourfuture](https://www.hackyourfuture.net/)
 - 🔭 I’m currently working on something cool : **MYSQL ,React Js**:
 - 🌱 I’m currently learning Full stack developer
-- 💬 Ask me about **HTML,CSS,Javascript,Node.js, SQL , MYSQL ,React Js and Frontend**
+- 💬 Ask me about 
+- <p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+     <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <br />
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="15%" height ="60px"  src="https://www.styled-components.com/atom.png"></code>
+  <code><img width="15%" src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+    <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-ar21.svg"></code>
+  <code><img width="15%" height ="60px"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+ 
 -
 
 
